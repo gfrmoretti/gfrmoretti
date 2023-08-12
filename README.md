@@ -24,7 +24,7 @@ I learn about Terraform and Infra As A Service and how to create scripts.
 I gained experience in observability creating solutions with Prometheus and Grafana, ElasticSearch and Kibana, integrations with APM DataDog, Azure Monitoring and Application Insights,
 creation of alerts and cloud monitoring with GCP, Azure and AWS.
  
-Throughout my experience I acquired knowledge with NodeJS, React, NextJS, CSS, HTML, Dart/Flutter. With this I created websites for delivery system and others webpages for the company and an Android app.
+Throughout my experience I acquired knowledge with NodeJS, React, NextJS, CSS, HTML, Dart/Flutter. With this I created websites for delivery system and others webpages for the company and an Android app. [Here](https://www.youtube.com/watch?v=A5kykp4gZQE&t=2s) a link showing one web app that I made using NextJS
 
 I love what I do and I love learning new technologies.
 
