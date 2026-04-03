@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/gfmoretti"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:gfrmoretti@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Consulting-6DB33F?style=flat"/>
 </p>
 
 ---
